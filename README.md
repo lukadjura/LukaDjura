@@ -1,4 +1,4 @@
-# Hello and Welcome to my GitHub profile.
+# Howdy and welcome to my GitHub profile.
 
 
 all of the  displayed repos are my personal <sup>superrr fun</sup> projects.
